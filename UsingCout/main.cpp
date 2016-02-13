@@ -18,5 +18,5 @@ int main() {
     system("clear");
     cout << "Second Welcome to C++ ! \n";
     // system("pause")
-    system("sleep 3");
+    system("sleep 6");
 }
