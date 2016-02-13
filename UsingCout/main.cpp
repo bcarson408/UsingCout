@@ -7,9 +7,16 @@
 //
 
 #include <iostream>
+#include <curses.h>
 using namespace std;
 
 
 int main() {
-   
+    cout << "Hit any keyboard-key to continue . . .";
+    cin.get();
+    // system("CLS")
+    system("clear");
+    cout << "Second Welcome to C++ ! \n";
+    // system("pause")
+    system("sleep 3");
 }
